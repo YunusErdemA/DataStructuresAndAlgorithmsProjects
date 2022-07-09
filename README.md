@@ -28,3 +28,85 @@ Patika.dev Profile: https://app.patika.dev/yunuserdemakpinar
     6. [8, 11, 12, 16, 21, 22]
 - Big-O gösterimini yazınız.
     - O(nlogn)
+# Proje 3
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+1.  <pre>
+    7
+    </pre>
+2.  <pre>
+      7
+     /
+    5
+    </pre>
+3.  <pre>
+        7
+       /
+      5
+     /
+    1
+    </pre>
+4.  <pre>
+        7
+       / \
+      5   8
+     /
+    1
+    </pre>
+5.  <pre>
+        7
+       / \
+      5   8
+     /
+    1
+     \
+      3
+    </pre>
+6.  <pre>
+        7
+       / \
+      5   8
+     / \
+    1   6
+     \
+      3
+    </pre>
+7.  <pre>
+          7
+         / \
+        5   8
+       / \
+      1   6
+     / \
+    0   3
+    </pre>
+8.  <pre>
+          7
+         / \
+        5   8
+       / \   \
+      1   6   9
+     / \
+    0   3
+    </pre>
+9.  <pre>
+          7
+         / \
+        5   8
+       / \   \
+      1   6   9
+     / \
+    0   3
+         \
+          4
+    </pre>
+10. <pre>
+          7
+         / \
+        5   8
+       / \   \
+      1   6   9
+     / \
+    0   3
+       / \
+      2   4
+    </pre>
